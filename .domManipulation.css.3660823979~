@@ -59,6 +59,5 @@ body {
     background-color: lightgreen;
 }
 .image {
-  border-radius: 250px;
-  border: 20px solid #73AD21;
+  border-radius: 25px;
 }
